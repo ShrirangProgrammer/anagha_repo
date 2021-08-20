@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Anagha-coder 
+- 👩‍🎓 A junior pursuing my Bachelors in Computer Science & Engineering.
 - 🌍 I'would love to get to know more about Open-Source
 - 👀 I’m interested in Artificial Intelligence, Machine Learning And learning upcoming Technologies
 - 🌱 I’m currently learning Web Developement , Django , Web automation
