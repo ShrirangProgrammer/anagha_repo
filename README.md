@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **adesai@gmail.com**
 
-- ⚡ Fun fact **Fries over Problems**
+- ⚡ **Sunsets >>>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
