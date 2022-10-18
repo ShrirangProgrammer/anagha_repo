@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anagha</h1>
-<h3 align="center">Open Source Ethusiast.</h3>
+<h3 align="center">Open Source Enthusiast.</h3>
 <h3 align="center">A junior pursuing my Bachelors in Computer Science & Engineering.</h3>
 
 
