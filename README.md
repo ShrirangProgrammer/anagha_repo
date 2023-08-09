@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anagha</h1>
+<h1 align="center">Hello 👋, I'm Shrirang</h1>
 <h3 align="center">Open Source Enthusiast.</h3>
-<h3 align="center">A junior pursuing my Bachelors in Computer Science & Engineering.</h3>
+<h3 align="center">Pursued my masters in Computer Applications (MCA).</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anagha-coder&label=Profile%20views&color=0e75b6&style=flat" alt="anagha-coder" /> </p>
